@@ -9,6 +9,8 @@ export default {
 
 <template>
   <navbar/>
+  <div class="baner-main">
+  </div>
 </template>
 
 <style>

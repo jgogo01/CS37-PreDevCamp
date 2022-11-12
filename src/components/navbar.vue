@@ -21,8 +21,6 @@
     </div>
   </div>
 </nav>
-
-<img src="../assets/image/DevCamp9.gif" class="img-fluid" alt="Baner Image">
 </template>
 
 <script>
