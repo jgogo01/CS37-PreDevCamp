@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+body{
+    font-family: 'Kanit', sans-serif !important;
+}
 .baner-main{
     background-image: url('../image/DevCamp9.gif');
     min-height: 100vh;
+}
+
+.navbar-toggler:focus {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.navbar-toggler {
+     border: 0 !important;
 }
